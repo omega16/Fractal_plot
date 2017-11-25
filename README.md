@@ -17,13 +17,13 @@ Windows:
     pip3 install numpy 
     pip3 install matplotlib
     pip3 install sympy 
-    pip3 install opencv-python
+
     
     (Es posible que para un correcto funcionamiento algunas librerias pidan otras librerias )
 
 linux :
     
-    generalment ya se tiene python instalado, seguir las instrucciones windows (usar matplotlib con soporte de cairo y opencv con soporte de qt)
+    generalment ya se tiene python instalado, seguir las instrucciones windows (usar matplotlib con soporte de cairo)
     
     
 Ejemplos de como usar las funciones se encuentran en driver.py junto a algunas funciones de ejemplo
