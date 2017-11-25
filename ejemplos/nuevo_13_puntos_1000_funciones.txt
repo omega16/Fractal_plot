@@ -1,0 +1,16 @@
+ sin(sin(sin(sin(x0) + 1) + 1) + 1) + 1, sin(sin(sin(sin(x1) + 1) + 1) + 1) + 1,sin(sin(sin(sin(x2) + 1) + 1) + 1) + 1
+ sin(sin(sin(sin(x0) + 2) + 1) + 1) + 1, sin(sin(sin(sin(x1) + 2) + 1) + 1) + 1,sin(sin(sin(sin(x2) + 2) + 1) + 1) + 1
+ sin(sin(sin(sin(x0) + 1) + 2) + 1) + 1, sin(sin(sin(sin(x1) + 1) + 2) + 1) + 1,sin(sin(sin(sin(x2) + 1) + 2) + 1) + 1
+ sin(sin(sin(sin(x0) + 2) + 2) + 1) + 1, sin(sin(sin(sin(x1) + 2) + 2) + 1) + 1,sin(sin(sin(sin(x2) + 2) + 2) + 1) + 1
+ sin(sin(sin(sin(x0) + 1) + 1) + 2) + 1, sin(sin(sin(sin(x1) + 1) + 1) + 2) + 1,sin(sin(sin(sin(x2) + 1) + 1) + 2) + 1
+ sin(sin(sin(sin(x0) + 2) + 1) + 2) + 1, sin(sin(sin(sin(x1) + 2) + 1) + 2) + 1,sin(sin(sin(sin(x2) + 2) + 1) + 2) + 1
+ sin(sin(sin(sin(x0) + 1) + 2) + 2) + 1, sin(sin(sin(sin(x1) + 1) + 2) + 2) + 1,sin(sin(sin(sin(x2) + 1) + 2) + 2) + 1
+ sin(sin(sin(sin(x0) + 2) + 2) + 2) + 1, sin(sin(sin(sin(x1) + 2) + 2) + 2) + 1,sin(sin(sin(sin(x2) + 2) + 2) + 2) + 1
+ sin(sin(sin(sin(x0) + 1) + 1) + 1) + 2, sin(sin(sin(sin(x1) + 1) + 1) + 1) + 2,sin(sin(sin(sin(x2) + 1) + 1) + 1) + 2
+ sin(sin(sin(sin(x0) + 2) + 1) + 1) + 2, sin(sin(sin(sin(x1) + 2) + 1) + 1) + 2,sin(sin(sin(sin(x2) + 2) + 1) + 1) + 2
+ sin(sin(sin(sin(x0) + 1) + 2) + 1) + 2, sin(sin(sin(sin(x1) + 1) + 2) + 1) + 2,sin(sin(sin(sin(x2) + 1) + 2) + 1) + 2
+ sin(sin(sin(sin(x0) + 2) + 2) + 1) + 2, sin(sin(sin(sin(x1) + 2) + 2) + 1) + 2,sin(sin(sin(sin(x2) + 2) + 2) + 1) + 2
+ sin(sin(sin(sin(x0) + 1) + 1) + 2) + 2, sin(sin(sin(sin(x1) + 1) + 1) + 2) + 2,sin(sin(sin(sin(x2) + 1) + 1) + 2) + 2
+ sin(sin(sin(sin(x0) + 2) + 1) + 2) + 2, sin(sin(sin(sin(x1) + 2) + 1) + 2) + 2,sin(sin(sin(sin(x2) + 2) + 1) + 2) + 2
+ sin(sin(sin(sin(x0) + 1) + 2) + 2) + 2, sin(sin(sin(sin(x1) + 1) + 2) + 2) + 2,sin(sin(sin(sin(x2) + 1) + 2) + 2) + 2
+ sin(sin(sin(sin(x0) + 2) + 2) + 2) + 2, sin(sin(sin(sin(x1) + 2) + 2) + 2) + 2,sin(sin(sin(sin(x2) + 2) + 2) + 2) + 2
